@@ -1,12 +1,12 @@
-<center>
-<img src="./amazon.png" alt="amazon Poster"/>
-</center>
+# Amazon Clone App
 
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+![amazon Poster](./amazon.png)
+
+This project is a clone of the popular e-commerce website Amazon. It is built using [Next.js](https://nextjs.org/) and was bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
 
-First, run the development server:
+To run the development server, use one of the following commands:
 
 ```bash
 npm run dev
@@ -16,6 +16,21 @@ yarn dev
 pnpm dev
 ```
 
+## Languages
+
+- TypeScript
+- JavaScript
+- CSS
+
+### Additional Information
+
+- This project is built using Next.js, a popular React framework for building web applications.
+- It is a clone of Amazon, a well-known e-commerce platform, with a focus on replicating the user interface and functionality.
+- The project includes TypeScript for static typing, enhancing the development experience and providing better code quality.
+
+For more details on how to use Next.js, refer to the [Next.js documentation](https://nextjs.org/docs).
+
+Feel free to explore, modify, and expand upon this project to suit your specific needs!
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
