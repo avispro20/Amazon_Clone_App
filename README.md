@@ -1,6 +1,5 @@
 # Amazon Clone App
-
-![amazon Poster](./amazon.png)
+![amazon](https://github.com/avispro20/Amazon_Clone_App/assets/65285730/5b436a6b-7e5b-40ab-b708-375b0c244cca)
 
 This project is a clone of the popular e-commerce website Amazon. It is built using [Next.js](https://nextjs.org/) and was bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
